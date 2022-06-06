@@ -172,7 +172,7 @@ export const HeroMain = memo(() => {
             <br className="brDisplay" />
             勉強管理を助ける
             <br />
-            学習サポートツールです。
+            学習追跡サービスです。
           </Heading>
 
           <Text
